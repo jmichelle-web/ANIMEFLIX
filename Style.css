@@ -1,4 +1,38 @@
 body {
-    color: white;
-    background: black;
+    color: rgb(97, 4, 109);
+    background: rgb(87, 3, 3);
+    margin: 0px;
+}
+header {
+    
+    border-bottom: solid 2px rgb(71, 3, 62);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(90, 9, 122);
+}
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 20px;
+}
+.chamada-texto {
+    margin-right: 20px;
+}
+/* código omitido */
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
